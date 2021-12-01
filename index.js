@@ -1,1 +1,1 @@
-console.log('hello bdoys and girls');
+console.log('hello and girls');
